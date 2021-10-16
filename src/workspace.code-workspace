@@ -1,0 +1,24 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\..\\CPP"
+	},
+	{
+		"path": "..\\..\\..\\..\\backUp code\\src"
+	},
+	{
+		"path": ".."
+	},
+	{
+		"path": "..\\..\\..\\Node"
+	}
+],
+  "settings": {
+    "files.associations": {
+      "iostream": "cpp",
+      "ostream": "cpp",
+      "unordered_set": "cpp",
+      "iosfwd": "cpp"
+    }
+  }
+}
